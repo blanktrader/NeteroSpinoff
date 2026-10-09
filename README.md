@@ -1,5 +1,4 @@
 # NeteroSpinoff
-# Titre du film
 
 Projet conçu en équipe avec : Omar Sbai Idrissi et Miguel Lopes
 
