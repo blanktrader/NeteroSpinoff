@@ -37,9 +37,8 @@ et l'argent
 - Un moodboard (3 à 5 images de référence) :
 
 
-![Moodboard](Netero.jpg)
-![Moodboard](Netero.jpg)
-![Moodboard](Netero.jpg)
+![Moodboard](neteroFighting.jpeg)
+![Moodboard](neteroPlaying.jpg)
+![Moodboard](neteroTraining.jpg)
+![Moodboard](neteroYoug.jpg)
 ![Moodboard](netero.jpg)
-![Moodboard](./netero.jpg)
-![image alt](https://github.com/blanktrader/NeteroSpinoff/blob/main/netero.jpg)
