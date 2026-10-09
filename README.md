@@ -41,5 +41,5 @@ et l'argent
 ![Moodboard](Netero.jpg)
 ![Moodboard](Netero.jpg)
 ![Moodboard](Netero.jpg)
-![Moodboard](https://github.com/blanktrader/NeteroSpinoff/blob/main/netero.jpg)
+![Moodboard](./netero.jpg)
 ![image alt](https://github.com/blanktrader/NeteroSpinoff/blob/main/netero.jpg)
