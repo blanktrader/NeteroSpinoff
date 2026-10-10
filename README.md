@@ -1,4 +1,4 @@
-# NeteroSpinoff
+# azaza
 
 Projet conçu en équipe avec : Omar Sbai Idrissi et Miguel Lopes
 
